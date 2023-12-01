@@ -56,6 +56,7 @@
 
 ![1](https://github.com/stepch1k/python_ais/blob/lab9/1.png)
 ![2](https://github.com/stepch1k/python_ais/blob/lab9/2.png)
+![3](https://github.com/stepch1k/python_ais/blob/lab9/3.png)
 ## Вывод:
 Благодаря проделанной работе я смог лучше разобраться с устройством классов в python и попрактиковаться в грамотном их проектировании! Понял общую структуру Написания классов для полноценной и удобной работе с их объектами.
 
